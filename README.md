@@ -1,7 +1,7 @@
 # Study
 
 PR규칙
-feature/{id}_YYYYMMDD_NUMBER
+feature/{id}_YYYYMMDD_VERSION
 ex) feature/bestSwiftAix_20200210_1
 
 1 file = 1pr
