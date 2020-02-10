@@ -2,7 +2,7 @@
 
 PR규칙
 feature/{id}_YYYYMMDD_NUMBER
-ex) feature/bestSwiftAix_20200210_01
+ex) feature/bestSwiftAix_20200210_1
 
 1 file = 1pr
 
