@@ -1,11 +1,11 @@
 # Study
 
 branch 규칙
-feature/{id}_YYYYMMDD_VERSION
+/ feature/{id}_YYYYMMDD_VERSION
 / ex) feature/bestSwiftAix_20200210_1
 
 pr 규칙
-[난이도] Solved {Number}. Title
+/ [난이도] Solved {Number}. Title
 / es) [Easy] Solved 175. Combine Two Tables
 
 1 branch = 1 pr = 1 file
