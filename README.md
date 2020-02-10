@@ -1,9 +1,13 @@
 # Study
 
-PR규칙
+branch 규칙
 feature/{id}_YYYYMMDD_VERSION
-ex) feature/bestSwiftAix_20200210_1
+/ ex) feature/bestSwiftAix_20200210_1
 
-1 file = 1pr
+pr 규칙
+[난이도] Solved {Number}. Title
+/ es) [Easy] Solved 175. Combine Two Tables
+
+1 branch = 1 pr = 1 file
 
 master로는 pr 하지 말기. 나중에 막을 것.
