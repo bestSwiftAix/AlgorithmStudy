@@ -1,4 +1,4 @@
-# Study
+# AlgorithmStudy
 
 ! branch 규칙 !
 
