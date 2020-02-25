@@ -13,10 +13,10 @@ ex) feature/bestSwiftAix_20200210_1
 ! pr 규칙 !
 
 
-[난이도] Solved {Number}. Title
+[난이도] Solved {Number}. Title [Language]
 
 
-ex) [Easy] Solved 175. Combine Two Tables
+ex) [Easy] Solved 175. Combine Two Tables [JavaScript]
 
 
 
