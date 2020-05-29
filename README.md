@@ -23,4 +23,4 @@ ex) [Easy] Solved 175. Combine Two Tables [JavaScript]
 
 1 branch = 1 pr = 1 file
 
-master로는 pr 하지 말기. 나중에 막을 것.1
+master로는 pr 하지 말기. 나중에 막을 것.
